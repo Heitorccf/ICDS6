@@ -5,18 +5,16 @@
 
 ## Descrição
 
-Este repositório contém materiais e trabalhos desenvolvidos durante a disciplina de Introdução à Ciência de Dados. O curso aborda conceitos essenciais da área, como coleta e análise de dados, visualização e introdução a algoritmos de aprendizado de máquina, utilizando ferramentas como Python e bibliotecas populares como Pandas e Scikit-Learn.
+Este repositório reúne os materiais e atividades da disciplina SUP.11019 - Introdução à Ciência de Dados. O curso aborda tópicos fundamentais de ciência de dados, incluindo coleta, manipulação e análise de dados, além de técnicas de aprendizado de máquina (Machine Learning) e inteligência artificial (IA). 
+
+As tecnologias e bibliotecas utilizadas incluem Python, Pandas, Scikit-Learn, entre outras ferramentas modernas amplamente aplicadas na área de ciência de dados.
 
 ## Estrutura do Repositório
 
-A estrutura do projeto está organizada nas seguintes pastas:
-
-- **Aulas**: Contém os materiais apresentados durante as aulas, incluindo exemplos e explicações práticas que cobrem os principais tópicos da disciplina.
-
-- **Trabalhos**: Diretório destinado aos trabalhos avaliativos da disciplina.
-
-- **raw-data**: Esta pasta contém os dados brutos fornecidos para as atividades práticas. O subdiretório `CSV` inclui arquivos CSV com diferentes conjuntos de dados, como acidentes, filmes, fotos e avaliações, utilizados para diversas análises ao longo do curso.
+- **Aulas**: Pasta com os conteúdos apresentados durante as aulas.
+- **Trabalhos**: Diretório destinado aos trabalhos desenvolvidos ao longo da disciplina.
+- **raw-data**: Contém dados brutos utilizados para as análises e atividades práticas.
 
 ---
 
-Este repositório será atualizado conforme a disciplina avança e novos conteúdos forem abordados.
+O repositório será atualizado conforme o avanço da disciplina e o desenvolvimento dos projetos.
