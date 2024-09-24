@@ -13,7 +13,7 @@ A estrutura do projeto está organizada nas seguintes pastas:
 
 - **Aulas**: Contém os materiais apresentados durante as aulas, incluindo exemplos e explicações práticas que cobrem os principais tópicos da disciplina.
 
-- **Trabalhos**: Diretório destinado aos trabalhos avaliativos da disciplina. No subdiretório `Accidents`, está presente um notebook com um trabalho específico, onde foram aplicadas técnicas de análise e visualização de dados relacionados a acidentes.
+- **Trabalhos**: Diretório destinado aos trabalhos avaliativos da disciplina.
 
 - **raw-data**: Esta pasta contém os dados brutos fornecidos para as atividades práticas. O subdiretório `CSV` inclui arquivos CSV com diferentes conjuntos de dados, como acidentes, filmes, fotos e avaliações, utilizados para diversas análises ao longo do curso.
 
